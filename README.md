@@ -18,7 +18,7 @@ You can perform calculations with whole numbers and decimals.
 
 Tips:
 
-- When you press enter to perform a calculation, the result will appear on the top screen. You wont be able to type any new numbers unless 
+- When you press enter to perform a calculation, the result will appear on the top screen, overriding the previous result if there was one. You wont be able to type any new numbers unless 
 you clear the screen (AC), OR select an operator which will calculate the previous result with new input. 
 
 - I am still learning CSS. I was experimenting with flex-box but please keep in mind not to use large numbers as they will disappear off screen! 
